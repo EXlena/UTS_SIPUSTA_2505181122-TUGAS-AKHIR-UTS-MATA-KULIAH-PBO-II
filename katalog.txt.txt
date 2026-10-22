@@ -1,0 +1,8 @@
+No   Jenis          Kode     Judul                     Tahun  Layak Pinjam  
+----------------------------------------------------------------------------
+1    Majalah        MJ-002   Info Teknologi Edisi 87   2026   Ya            
+2    BukuCetak      BK-001   Java How to Program       2022   Ya            
+3    BerkasDigital  BD-002   Jurnal Rekayasa Perangkat 2025   Ya            
+4    BerkasDigital  BD-001   Panduan Pemrograman Java  2024   Ya            
+5    BukuCetak      BK-002   Basis Data Relasional     2021   Tidak         
+6    Majalah        MJ-001   Info Teknologi Edisi 88   2026   Tidak         
